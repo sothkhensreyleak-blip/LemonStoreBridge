@@ -1,6 +1,0 @@
-name: LemonStoreBridge
-version: 1.0.0
-main: ink.lemonmc.storebridge.LemonStoreBridgePlugin
-api-version: "26.2"
-author: LemonMC
-description: Polls LemonMC Store API and executes commands on Paper 1.21.11 - 26.2.
